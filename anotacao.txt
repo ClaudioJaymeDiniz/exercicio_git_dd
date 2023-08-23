@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 arquivo no pc para teste
+=======
+testando, conflito no git, utilizando navegador
+>>>>>>> de44f6ab5a00503db6433022df45785b4047364f
