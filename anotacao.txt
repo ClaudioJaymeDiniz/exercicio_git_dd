@@ -1,1 +1,1 @@
-testando, conflito no git
+testando, conflito no git, utilizando navegador
